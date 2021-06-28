@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "creating new server project using python",
+      "desc": "one by one"
+    },
+    {
+      "id": 2,
+      "title": "creating new Front End project using react js",
+      "desc": "After finish hand over to mr Han for revision"
+    },
+    {
+      "id": 3,
+      "title": "creating new Front End project using vue js",
+      "desc": "After finish hand over to mr tommy for revision"
+    },
+    {
+      "id": 1624863165466,
+      "title": "Test Post Data React 1",
+      "desc": "post data 1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Haidar"
+    }
+  ]
+}
